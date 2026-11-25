@@ -1,0 +1,6 @@
+secrets.yaml
+*secrets*.yaml
+*secrets*.yml
+.env
+.env.*
+*.bak
